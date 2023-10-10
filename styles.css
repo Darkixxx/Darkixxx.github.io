@@ -15,6 +15,7 @@ body {
     padding: 20px;
     text-align: center;
     transition: all 0.2s ease; /* Плавный переход для всех свойств */
+    background-color: #FF7F50;
   }
   
   /* Эффект встряски при наведении */
